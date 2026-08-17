@@ -1,0 +1,20 @@
+body{
+    font-family: Arial;
+    margin:40px;
+}
+
+textarea{
+    width:500px;
+    height:120px;
+}
+
+button{
+    padding:10px 20px;
+    margin-top:10px;
+}
+
+#result{
+    margin-top:20px;
+    padding:15px;
+    border:1px solid gray;
+}
